@@ -8,7 +8,7 @@
 2. [📜 Scripts](#-scripts)
 3. [🎮 Game Engine](#-game-engine)
 4. [✨ Features](#-features)
-5. [🗂️ Projektunterlagen](#-projektunterlagen)
+5. [🗂️ Schul Unterlagen](#-schul-unterlagen)
 6. [📸 Screenshots & Demo](#-screenshots--demo)
 7. [✅ ToDo & Roadmap](#-todo)
 8. [📄 Lizenz](#-lizenz)
@@ -60,7 +60,7 @@ Technologien & Features:
 
 ---
 
-## 🗂️ Projektunterlagen
+## 🗂️ Schul Unterlagen
 
 Offizielle Schul-Dokumente:
 - Projektauftrag
