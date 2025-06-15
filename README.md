@@ -1,4 +1,4 @@
-# 🌟 ZYOS TRAILS
+# ZYOS TRAILS
 
 ---
 
