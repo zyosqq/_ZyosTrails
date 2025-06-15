@@ -4,25 +4,25 @@
 
 ## 📑 Inhaltsverzeichnis
 
-1. [📁 Datenstruktur](#-data_struktur)
+1. [📁 Datenstruktur](#-datenstruktur)
 2. [📜 Scripts](#-scripts)
 3. [🎮 Game Engine](#-game-engine)
 4. [✨ Features](#-features)
-5. [🗂️ Schulunterlagen](#-school-documents)
-6. [📸 Screenshots & Demo](#-screenshots-and-demo)
-7. [✅ ToDo](#-todo)
+5. [🗂️ Projektunterlagen](#-projektunterlagen)
+6. [📸 Screenshots & Demo](#-screenshots--demo)
+7. [✅ ToDo & Roadmap](#-todo)
+8. [📄 Lizenz](#-lizenz)
 
 ---
 
 ## 📁 Datenstruktur
 
 Hier wird erklärt, wie das gesamte Projekt aufgebaut ist:
-- **Workspace**: Welten, Trails, Checkpoints, Lobby.
-- **ServerStorage**: ModuleScripts, Services, DataStore.
-- **ReplicatedStorage**: Remotes, SharedModules, Assets.
+- **Workspace**: Welten, Trails, Checkpoints, Lobby, etc..
+- **ServerScriptService**: Server-Skripte, ModuleScripts, Services, DataStore.
+- **ServerStorage**: Bindable Events.
+- **ReplicatedStorage**: Remote Events.
 - **StarterPlayer**: Client-Skripte.
-- **Assets**: Meshes, Textures, Sounds, Animations.
-- **Docs**: Alle Design- und Planungstexte.
 
 👉 Details: siehe Ordner `Data_Structure/`.
 
@@ -30,13 +30,7 @@ Hier wird erklärt, wie das gesamte Projekt aufgebaut ist:
 
 ## 📜 Scripts
 
-Die wichtigsten Scripte und Module:
-- **TrailService**: Verwaltung von Trails & Fortschritt.
-- **CheckpointService**: Speichern & Laden der Checkpoints.
-- **WorldService**: Laden und Wechseln der Welten.
-- **ZXPManager**: XP-System.
-- **ZCoinsManager**: Coins-System.
-- **UIHandler**, **TrailClient**, **PlayerEffects**: Clientseitige Effekte & UI.
+Hier werden skripte angezeigt und erklärt.
 
 👉 Details: siehe Ordner `Scripts/`.
 
@@ -48,8 +42,6 @@ Technologien & Features:
 - **Roblox Luau Scripting**
 - **RemoteEvents & BindableEvents**
 - **Attributes & Datastore**
-- **Physics, Constraints, Collision Groups**
-- **StreamingEnabled & Performance Optimierung**
 - **Client-Server-Architektur**
 
 👉 Details: siehe Ordner `Game Engine/`.
@@ -63,8 +55,6 @@ Technologien & Features:
 - ZXP XP-System.
 - ZCoins Ingame-Währung.
 - Fortschrittsspeicherung.
-- UI für Trails, ZXP und Coins.
-- Effekte (Sounds, VFX).
 
 👉 Details: siehe Ordner `Features/`.
 
@@ -75,9 +65,6 @@ Technologien & Features:
 Offizielle Schul-Dokumente:
 - Projektauftrag
 - Projektantrag
-- Abgabekriterien
-- Bewertungsbogen
-- Protokolle
 
 👉 Details: siehe Ordner `_Projektunterlagen/`.
 
@@ -91,7 +78,7 @@ Screenshots, GIFs und kleine Videos, die das Spiel zeigen.
 
 ---
 
-## ✅ ToDo & Roadmap
+## ✅ ToDo
 
 - Offene Aufgaben
 - Aktuelle Fortschritte
@@ -101,11 +88,4 @@ Screenshots, GIFs und kleine Videos, die das Spiel zeigen.
 
 ---
 
-## 📄 Lizenz
-
-> Dieses Projekt ist privat und nur für Schul- und Portfoliozwecke gedacht.
-
----
-
 ## 🚀 Viel Spaß beim Erkunden von **ZYOS TRAILS**!
-
