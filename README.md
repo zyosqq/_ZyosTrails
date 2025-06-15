@@ -8,10 +8,9 @@
 2. [📜 Scripts](#-scripts)
 3. [🎮 Game Engine](#-game-engine)
 4. [✨ Features](#-features)
-5. [🗂️ Schul Unterlagen](#-schul-unterlagen)
-6. [📸 Screenshots & Demo](#-screenshots--demo)
+5. [📸 Screenshots & Demo](#-screenshots--demo)
+6. [🗂️ Schul Unterlagen](#️-schul-unterlagen)
 7. [✅ ToDo & Roadmap](#-todo)
-8. [📄 Lizenz](#-lizenz)
 
 ---
 
@@ -60,6 +59,15 @@ Technologien & Features:
 
 ---
 
+
+## 📸 Screenshots & Demo
+
+Screenshots, GIFs und kleine Videos, die das Spiel zeigen.
+
+👉 Details: siehe Ordner `Screenshots_and_Demo/`.
+
+---
+
 ## 🗂️ Schul Unterlagen
 
 Offizielle Schul-Dokumente:
@@ -67,14 +75,6 @@ Offizielle Schul-Dokumente:
 - Projektantrag
 
 👉 Details: siehe Ordner `_School_Documents/`.
-
----
-
-## 📸 Screenshots & Demo
-
-Screenshots, GIFs und kleine Videos, die das Spiel zeigen.
-
-👉 Details: siehe Ordner `Screenshots_and_Demo/`.
 
 ---
 
