@@ -74,7 +74,7 @@ Offizielle Schul-Dokumente:
 - Projektauftrag
 - Projektantrag
 
-👉 Details: siehe Ordner `_School_Documents/`.
+👉 Details: siehe Ordner `School_Documents/`.
 
 ---
 
