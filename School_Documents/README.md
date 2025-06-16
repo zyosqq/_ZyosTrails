@@ -22,6 +22,10 @@ In diesem Ordner befinden sich alle offiziellen Projektdokumente, die für die B
 
 Es sind bis auf ihre Unterlagen alles auf englisch dokumentiert worden.
 
+Alles, was in diesen Dokumenten festgehalten wurde, hat **keinen direkten Einfluss auf die Funktionsweise des Spiels**.  
+Es wurde nur sehr ausführlich dokumentiert, um den Entwicklungs- und Planungsprozess transparent zu machen.  
+Die meisten Inhalte sind vor allem für mich selbst gedacht, da ich das Spiel nach dem Schulprojekt weiterentwickeln möchte.
+
 Wichtige Links für Sie:
 - [Haupt-README des Projekts](../README.md)
 - [Datenstruktur](../Data_Structure/README.md)
