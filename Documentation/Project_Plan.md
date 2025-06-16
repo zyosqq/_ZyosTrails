@@ -1,4 +1,4 @@
-# 🗂️ Project Plan — ZyosTrails
+# 🗂️ Project Plan
 
 This document outlines the planned phases and main components for developing **ZyosTrails**, including all key modules, server/client scripts, content, and design elements.
 
