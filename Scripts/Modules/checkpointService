@@ -1,0 +1,51 @@
+--[[
+Author: Zyos
+Date: 06/08/2025 (DD/MM/YY)
+Description: Module that manages checkpoints for players
+]]
+
+-- Variables
+local worlds = game.Workspace:WaitForChild("worlds")
+
+-- Module
+local checkpointService = {}
+
+-- Returns checkpoints and start part for a given trail
+function checkpointService:getCheckpoints(tID, wID)
+	local trail = worlds:FindFirstChild("WORLD_" .. wID)
+	if not trail then return end
+
+	trail = trail:FindFirstChild("trails"):FindFirstChild("TRAIL_" .. tID)
+	if not trail then return end
+
+	local start = trail:FindFirstChild("start")
+	
+	local checkpointsFolder = trail:FindFirstChild("obby"):FindFirstChild("checkpoints")
+	if not checkpointsFolder then return end
+
+	return checkpointsFolder:GetChildren(), start
+end
+
+-- Updates player's checkpoint if it's further than the current one
+function checkpointService:setCheckpoint(plr, checkpoint)
+	local stageID = checkpoint:GetAttribute("stageID")
+	if not stageID then return end
+
+	local currentID = plr:GetAttribute("checkpointID") or 0
+	if currentID >= stageID then return end
+
+	plr:SetAttribute("checkpointID", stageID)
+	plr:SetAttribute("checkpointCFrame", checkpoint.CFrame)
+end
+
+-- Clears the player's checkpoint and CFrame
+function checkpointService:removeCheckpoints(plr)
+	plr:SetAttribute("checkpointID", nil)
+	plr:SetAttribute("checkpointCFrame", CFrame.new(0,0,0))
+end
+
+function checkpointService:initPlayer(plr)
+	plr:SetAttribute("checkpointCFrame", CFrame.new(0,0,0))
+end
+
+return checkpointService

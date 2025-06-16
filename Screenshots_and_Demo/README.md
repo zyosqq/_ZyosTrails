@@ -4,7 +4,7 @@ This folder contains visual examples and demo material for **ZyosTrails**.
 
 ---
 
-## 📷 What’s Included
+## What’s Included
 
 - **Screenshots:**  
   Images of worlds, Trails (obbies), and important gameplay areas.

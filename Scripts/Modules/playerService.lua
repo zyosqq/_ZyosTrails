@@ -35,5 +35,5 @@ function playerService:plrCFrameToCheckpoint(plr, _CFrame)
 
 	plr.Character:PivotTo(checkpointCFrame * CFrame.new(0,5,0))
 end
-
+    
 return playerService
