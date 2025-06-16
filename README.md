@@ -2,90 +2,89 @@
 
 ---
 
-## 📑 Inhaltsverzeichnis
+## 📑 Table of Contents
 
-1. [📁 Datenstruktur](#-datenstruktur)
+1. [📁 Data Structure](#-data-structure)
 2. [📜 Scripts](#-scripts)
 3. [🎮 Game Engine](#-game-engine)
 4. [✨ Features](#-features)
 5. [📸 Screenshots & Demo](#-screenshots--demo)
-6. [🗂️ Schul Unterlagen](#️-schul-unterlagen)
+6. [🗂️ School Documents](#-school-documents)
 7. [✅ ToDo & Roadmap](#-todo)
 
 ---
 
-## 📁 Datenstruktur
+## 📁 Data Structure
 
-Hier wird erklärt, wie das gesamte Projekt aufgebaut ist:
-- **Workspace**: Welten, Trails, Checkpoints, Lobby, etc..
-- **ServerScriptService**: Server-Skripte, ModuleScripts, Services, DataStore.
-- **ServerStorage**: Bindable Events.
-- **ReplicatedStorage**: Remote Events.
-- **StarterPlayer**: Client-Skripte.
+Explains how the entire project is organized:
+- **Workspace:** Worlds, Trails, Checkpoints, Lobby, etc.
+- **ServerScriptService:** Server scripts, ModuleScripts, Services, DataStore.
+- **ServerStorage:** Bindable Events.
+- **ReplicatedStorage:** Remote Events.
+- **StarterPlayer:** Client scripts.
 
-👉 Details: siehe Ordner [Data Structure](Data_Structure/).
+👉 See more: [Data Structure](Data_Structure/)
 
 ---
 
 ## 📜 Scripts
 
-Hier werden skripte angezeigt und erklärt.
+Shows and explains the core scripts and modules.
 
-👉 Details: siehe Ordner [Scripts](Scripts/).
+👉 See more: [Scripts](Scripts/)
 
 ---
 
 ## 🎮 Game Engine
 
-Technologien & Features:
+Technologies & features used:
 - **Roblox Luau Scripting**
 - **RemoteEvents & BindableEvents**
 - **Attributes & Datastore**
-- **Client-Server-Architektur**
+- **Client-Server Architecture**
 
-👉 Details: siehe Ordner [Game Engine](Game_Engine/).
+👉 See more: [Game Engine](Game_Engine/)
 
 ---
 
 ## ✨ Features
 
-- Open World mit mehreren Welten.
-- Trails (Obbies) mit verschiedenen Schwierigkeitsstufen (Tier-System).
-- ZXP XP-System.
-- ZCoins Ingame-Währung.
-- Fortschrittsspeicherung.
+- Open World with multiple worlds.
+- Trails (obbies) with various difficulty levels (Tier System).
+- ZXP XP system.
+- ZCoins in-game currency.
+- Progress saving system.
 
-👉 Details: siehe Ordner [Features](Features/).
+👉 See more: [Features](Features/)
 
 ---
-
 
 ## 📸 Screenshots & Demo
 
-Screenshots, GIFs und kleine Videos, die das Spiel zeigen.
+Screenshots, GIFs and short clips showcasing the game.
 
-👉 Details: siehe Ordner [Screenshots and Demo](Screenshots_and_Demo/).
-
----
-
-## 🗂️ Schul Unterlagen
-
-Offizielle Schul-Dokumente:
-- Projektauftrag
-- Projektantrag
-
-👉 Details: siehe Ordner [School Documents](School_Documents/).
+👉 See more: [Screenshots and Demo](Screenshots_and_Demo/)
 
 ---
 
-## ✅ ToDo
+## 🗂️ School Documents
 
-- Offene Aufgaben
-- Aktuelle Fortschritte
-- Nächste Schritte
+Official school-related files:
+- Project assignment
+- Project proposal
 
-👉 Details: siehe Ordner [ToDo](Todo/).
+👉 See more: [School Documents](School_Documents/)
 
 ---
 
-## 🚀 Viel Spaß beim Erkunden von **ZyosTrails**!   
+## ✅ ToDo & Roadmap
+
+- Open tasks
+- Current progress
+- Next development steps
+
+👉 See more: [ToDo](Todo/)
+
+---
+
+## 🚀 Enjoy exploring **ZyosTrails**!

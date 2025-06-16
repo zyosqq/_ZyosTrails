@@ -4,7 +4,7 @@ This document describes the **folder structure** of **ZyosTrails** and explains 
 
 ---
 
-## 🗂️ Overview
+## Overview
 
 The project structure follows a clean and logical hierarchy:
 
