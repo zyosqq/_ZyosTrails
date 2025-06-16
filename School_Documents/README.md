@@ -20,7 +20,7 @@ In diesem Ordner befinden sich alle offiziellen Projektdokumente, die für die B
 
 Änderungen oder Ergänzungen können bei Bedarf kurzfristig ergänzt werden.
 
-Es sind bis auf ihre Unterlagen alles auf englisch dokumentiert worden.
+Es ist bis auf ihre Unterlagen alles auf englisch dokumentiert worden.
 
 Alles, was in diesen Dokumenten festgehalten wurde, hat **keinen direkten Einfluss auf die Funktionsweise des Spiels**.
 
