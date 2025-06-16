@@ -13,6 +13,7 @@ Scripts/
 ├─ ServerScripts/
 ├─ ClientScripts/
 ├─ Modules/
+├─ Events/
 ```
 
 
