@@ -1,4 +1,4 @@
-# 🎮 Game Engine — ZyosTrails
+# 🎮 Game Engine
 
 This file explains which Roblox engine features and services are used to power **ZyosTrails**.
 
