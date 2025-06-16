@@ -43,6 +43,5 @@ The project structure follows a clean and logical hierarchy:
 
 - [StarterPlayerScripts/](StarterPlayer/StarterPlayerScripts/)
 - [StarterCharacterScripts/](StarterPlayer/StarterCharacterScripts/)
-StarterCharacterScripts/
 ```
 
