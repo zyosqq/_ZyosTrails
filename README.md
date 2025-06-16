@@ -1,4 +1,4 @@
-# ZYOS TRAILS
+# ZyosTrails
 
 ---
 
@@ -23,7 +23,7 @@ Hier wird erklärt, wie das gesamte Projekt aufgebaut ist:
 - **ReplicatedStorage**: Remote Events.
 - **StarterPlayer**: Client-Skripte.
 
-👉 Details: siehe Ordner `Data_Structure/`.
+👉 Details: siehe Ordner [Data Structure](Data_Structure/).
 
 ---
 
@@ -31,7 +31,7 @@ Hier wird erklärt, wie das gesamte Projekt aufgebaut ist:
 
 Hier werden skripte angezeigt und erklärt.
 
-👉 Details: siehe Ordner `Scripts/`.
+👉 Details: siehe Ordner [Scripts](Scripts/).
 
 ---
 
@@ -43,7 +43,7 @@ Technologien & Features:
 - **Attributes & Datastore**
 - **Client-Server-Architektur**
 
-👉 Details: siehe Ordner `Game Engine/`.
+👉 Details: siehe Ordner [Game Engine](Game_Engine/).
 
 ---
 
@@ -55,7 +55,7 @@ Technologien & Features:
 - ZCoins Ingame-Währung.
 - Fortschrittsspeicherung.
 
-👉 Details: siehe Ordner `Features/`.
+👉 Details: siehe Ordner [Features](Features/).
 
 ---
 
@@ -64,7 +64,7 @@ Technologien & Features:
 
 Screenshots, GIFs und kleine Videos, die das Spiel zeigen.
 
-👉 Details: siehe Ordner `Screenshots_and_Demo/`.
+👉 Details: siehe Ordner [Screenshots and Demo](Screenshots_and_Demo/).
 
 ---
 
@@ -74,7 +74,7 @@ Offizielle Schul-Dokumente:
 - Projektauftrag
 - Projektantrag
 
-👉 Details: siehe Ordner `School_Documents/`.
+👉 Details: siehe Ordner [School Documents](School_Documents/).
 
 ---
 
@@ -84,8 +84,8 @@ Offizielle Schul-Dokumente:
 - Aktuelle Fortschritte
 - Nächste Schritte
 
-👉 Details: siehe Ordner `Todo/`.
+👉 Details: siehe Ordner [ToDo](Todo/).
 
 ---
 
-## 🚀 Viel Spaß beim Erkunden von **ZYOS TRAILS**!
+## 🚀 Viel Spaß beim Erkunden von **ZyosTrails**!   
