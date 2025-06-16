@@ -13,4 +13,4 @@ This folder contains all important documents for planning and tracking **ZyosTra
   → A version history showing what has been built so far and what’s next.
 
 - **[Design_Docs/](Design_Docs/)**  
-  → Detailed design notes for gameplay, UI and level ideas.
+  → Design notes for gameplay, UI and level ideas.
