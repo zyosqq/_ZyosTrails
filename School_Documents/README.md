@@ -30,6 +30,7 @@ Die meisten Inhalte sind vor allem für mich selbst gedacht, da ich das Spiel na
 
 Wichtige Links für Sie:
 - [Haupt-README des Projekts](../README.md)
+- [Schuldokumente](../School_Documents/)
 - [Datenstruktur](../Data_Structure/README.md)
 - [Scripts](../Scripts/README.md)
 - [Game Engine](../Game_Engine/README.md)
