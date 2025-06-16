@@ -8,25 +8,27 @@ This document describes the **folder structure** of **ZyosTrails** and explains 
 
 The project structure follows a clean and logical hierarchy:
 
+```plaintext
 Workspace/
-├─ worlds/
-├─ lobby/
-├─ trails/
-├─ checkpoints/
+ ├─ worlds/
+ ├─ lobby/
+ ├─ trails/
+ ├─ checkpoints/
 
 ServerScriptService/
-├─ CoreServices/
-├─ DataStore/
-├─ UtilityScripts/
+ ├─ CoreServices/
+ ├─ DataStore/
+ ├─ UtilityScripts/
 
 ServerStorage/
-├─ BindableEvents/
+ ├─ BindableEvents/
 
 ReplicatedStorage/
-├─ RemoteEvents/
-├─ SharedModules/
-├─ Assets/
+ ├─ RemoteEvents/
+ ├─ SharedModules/
+ ├─ Assets/
 
 StarterPlayer/
-├─ StarterPlayerScripts/
-├─ StarterCharacterScripts/
+ ├─ StarterPlayerScripts/
+ ├─ StarterCharacterScripts/
+```
