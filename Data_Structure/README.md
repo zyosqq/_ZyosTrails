@@ -8,40 +8,34 @@ This document describes the **folder structure** of **ZyosTrails** and explains 
 
 The project structure follows a clean and logical hierarchy:
 
-### 📂 Workspace
+```plaintext
+Workspace/
+ ├─ worlds/
+ │   ├─ assets/
+ │   ├─ WORLD_x/
+ │   │   ├─ trails/
+ │   │   │   ├─ TRAIL_x/
+ │   │   │   │   ├─ assets/
+ │   │   │   │   ├─ info/
+ │   │   │   │   ├─ obby/
+ │   │   │   │   │   ├─ main/
+ │   │   │   │   │   ├─ checkpoints/
+ │   │   │   │   │   ├─ decor/
 
-- [Workspace/](Workspace/)
-  - [assets/](Workspace/assets/)
-  - [WORLD_x/](Workspace/WORLD_x/)
-    - [assets/](Workspace/WORLD_x/assets/)
-    - [trails/](Workspace/WORLD_x/trails/)
-      - [TRAIL_x/](Workspace/WORLD_x/trails/TRAIL_x/)
-        - [assets/](Workspace/WORLD_x/trails/TRAIL_x/assets/)
-        - [info/](Workspace/WORLD_x/trails/TRAIL_x/info/)
-        - [obby/](Workspace/WORLD_x/trails/TRAIL_x/obby/)
-          - [main/](Workspace/WORLD_x/trails/TRAIL_x/obby/main/)
-          - [checkpoints/](Workspace/WORLD_x/trails/TRAIL_x/obby/checkpoints/)
-          - [decor/](Workspace/WORLD_x/trails/TRAIL_x/obby/decor/)
+ServerScriptService/
+ ├─ Modules/
+ ├─ Scripts/
+ │   ├─ player/
+ │   ├─ trails/
 
-### 📂 ServerScriptService
+ServerStorage/
+ ├─ BindableEvents/
 
-- [Modules/](ServerScriptService/Modules/)
-- [Scripts/](ServerScriptService/Scripts/)
-  - [player/](ServerScriptService/Scripts/player/)
-  - [trails/](ServerScriptService/Scripts/trails/)
+ReplicatedStorage/
+ ├─ Events/
+ │   ├─ RemoteEvents/
 
-### 📂 ServerStorage
-
-- [BindableEvents/](ServerStorage/BindableEvents/)
-
-### 📂 ReplicatedStorage
-
-- [Events/](ReplicatedStorage/Events/)
-  - [RemoteEvents/](ReplicatedStorage/Events/RemoteEvents/)
-
-### 📂 StarterPlayer
-
-- [StarterPlayerScripts/](StarterPlayer/StarterPlayerScripts/)
-- [StarterCharacterScripts/](StarterPlayer/StarterCharacterScripts/)
+StarterPlayer/
+ ├─ StarterPlayerScripts/
+ ├─ StarterCharacterScripts/
 ```
-
