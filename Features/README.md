@@ -1,4 +1,4 @@
-# ✨ Features — ZyosTrails
+# ✨ Features
 
 This file gives an overview of the main gameplay features of **ZyosTrails**.
 
