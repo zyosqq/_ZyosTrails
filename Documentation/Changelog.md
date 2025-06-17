@@ -1,4 +1,4 @@
-# 📜 Changelo
+# 📜 Changelog
 
 This changelog keeps track of all major updates and development milestones for **ZyosTrails**.
 
