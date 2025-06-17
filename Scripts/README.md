@@ -34,7 +34,7 @@ Reusable ModuleScripts that define core systems:
 - `trailService`
 - `dataService`
 - `playerService`
-- `zcoinService`
+- `zcoinsService`
 - `zxpService`
 
 These modules are required by server scripts and manage the main game features.
